@@ -24,5 +24,3 @@ start ""Android Emulator"" /B "C:\Path\To\emulator.exe" @Pixel_8_Pro -scale 0.75
 
 
 This command is generated and saved via a WPF interface, allowing users to choose where to store the .bat file.
-
-Let me know if you want to add screenshots, usage instructions, or link to the repo. You're packaging this launcher like a pro.
